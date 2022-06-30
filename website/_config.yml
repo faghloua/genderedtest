@@ -22,7 +22,7 @@ subtitle_en              : "Measuring gender imbalance in French media"
 subtitle_fr              : "Mesurer les inégalités de genre dans les médias français"
 name                     : ""
 description              : ""
-url                      : "https://gendered-news.imag.fr"
+url                      : "https://faghloua.github.io/genderedtest/"
 baseurl                  : "/genderednews"
 languages                : ["fr", "en"]
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
